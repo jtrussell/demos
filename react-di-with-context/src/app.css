@@ -1,0 +1,24 @@
+
+.blue-thing {
+  padding: 2.5rem;
+  margin: 2.5rem;
+  border: .2rem dashed blue;
+  color: blue;
+  background-color: lightcyan;
+}
+
+.green-thing {
+  padding: 2.5rem;
+  margin: 2.5rem;
+  border: .2rem dashed green;
+  color: green;
+  background-color: lightgreen;
+}
+
+.red-thing {
+  padding: 2.5rem;
+  margin: 2.5rem;
+  border: .2rem dashed red;
+  color: red;
+  background-color: mistyrose;
+}
